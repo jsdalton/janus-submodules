@@ -10,3 +10,9 @@
 [submodule "php.vim"]
 	path = php.vim
 	url = https://github.com/StanAngeloff/php.vim.git
+[submodule "go-vim"]
+	path = go-vim
+	url = https://github.com/uggedal/go-vim
+[submodule "vim-flake8"]
+	path = vim-flake8
+	url = https://github.com/nvie/vim-flake8
