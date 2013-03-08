@@ -1,9 +1,6 @@
 [submodule "vim-autoclose"]
 	path = vim-autoclose
 	url = https://github.com/Townk/vim-autoclose.git
-[submodule "vim-less"]
-	path = vim-less
-	url = https://github.com/groenewege/vim-less.git
 [submodule "html5.vim"]
 	path = html5.vim
 	url = git://github.com/othree/html5.vim.git
