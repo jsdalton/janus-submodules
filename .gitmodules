@@ -28,3 +28,6 @@
 [submodule "indent-java.vim"]
 	path = indent-java.vim
 	url = https://github.com/xuhdev/indent-java.vim
+[submodule "ag.vim"]
+	path = ag.vim
+	url = https://github.com/rking/ag.vim
