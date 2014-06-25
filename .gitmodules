@@ -31,3 +31,6 @@
 [submodule "ag.vim"]
 	path = ag.vim
 	url = https://github.com/rking/ag.vim
+[submodule "rust.vim"]
+	path = rust.vim
+	url = https://github.com/wting/rust.vim.git
