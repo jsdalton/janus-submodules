@@ -34,3 +34,6 @@
 [submodule "rust.vim"]
 	path = rust.vim
 	url = https://github.com/wting/rust.vim.git
+[submodule "vim-flake8"]
+	path = vim-flake8
+	url = https://github.com/nvie/vim-flake8
