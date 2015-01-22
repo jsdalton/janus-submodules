@@ -34,3 +34,6 @@
 [submodule "vim-flake8"]
 	path = vim-flake8
 	url = https://github.com/nvie/vim-flake8
+[submodule "vim-ruby"]
+	path = vim-ruby
+	url = https://github.com/vim-ruby/vim-ruby
