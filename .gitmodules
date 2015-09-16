@@ -22,6 +22,7 @@
 [submodule "VimClojure"]
 	path = VimClojure
 	url = https://github.com/vim-scripts/VimClojure
+  ignore = dirty
 [submodule "indent-java.vim"]
 	path = indent-java.vim
 	url = https://github.com/xuhdev/indent-java.vim
