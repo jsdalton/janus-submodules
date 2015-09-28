@@ -38,3 +38,6 @@
 [submodule "vim-ruby"]
 	path = vim-ruby
 	url = https://github.com/vim-ruby/vim-ruby
+[submodule "vim-arduino-syntax"]
+	path = vim-arduino-syntax
+	url = https://github.com/sudar/vim-arduino-syntax
