@@ -41,3 +41,6 @@
 [submodule "vim-arduino-syntax"]
 	path = vim-arduino-syntax
 	url = https://github.com/sudar/vim-arduino-syntax
+[submodule "vim-jsx"]
+	path = vim-jsx
+	url = https://github.com/mxw/vim-jsx
