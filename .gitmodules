@@ -47,3 +47,6 @@
 [submodule "vim-mustache-handlebars"]
 	path = vim-mustache-handlebars
 	url = https://github.com/mustache/vim-mustache-handlebars
+[submodule "typescript-vim"]
+	path = typescript-vim
+	url = https://github.com/leafgarland/typescript-vim
