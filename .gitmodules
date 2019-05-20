@@ -53,3 +53,6 @@
 [submodule "applescript.vim"]
 	path = applescript.vim
 	url = https://github.com/vim-scripts/applescript.vim
+[submodule "vim-es6"]
+	path = vim-es6
+	url = https://github.com/isRuslan/vim-es6
